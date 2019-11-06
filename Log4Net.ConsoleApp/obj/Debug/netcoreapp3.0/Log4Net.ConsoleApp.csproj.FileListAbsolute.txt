@@ -1,0 +1,13 @@
+D:\Projeler\Log4net\Log4Net.ConsoleApp\bin\Debug\netcoreapp3.0\Log4Net.ConsoleApp.exe
+D:\Projeler\Log4net\Log4Net.ConsoleApp\bin\Debug\netcoreapp3.0\log4net.config
+D:\Projeler\Log4net\Log4Net.ConsoleApp\bin\Debug\netcoreapp3.0\Log4Net.ConsoleApp.deps.json
+D:\Projeler\Log4net\Log4Net.ConsoleApp\bin\Debug\netcoreapp3.0\Log4Net.ConsoleApp.runtimeconfig.json
+D:\Projeler\Log4net\Log4Net.ConsoleApp\bin\Debug\netcoreapp3.0\Log4Net.ConsoleApp.runtimeconfig.dev.json
+D:\Projeler\Log4net\Log4Net.ConsoleApp\bin\Debug\netcoreapp3.0\Log4Net.ConsoleApp.dll
+D:\Projeler\Log4net\Log4Net.ConsoleApp\bin\Debug\netcoreapp3.0\Log4Net.ConsoleApp.pdb
+D:\Projeler\Log4net\Log4Net.ConsoleApp\bin\Debug\netcoreapp3.0\log4net.dll
+D:\Projeler\Log4net\Log4Net.ConsoleApp\obj\Debug\netcoreapp3.0\Log4Net.ConsoleApp.AssemblyInfoInputs.cache
+D:\Projeler\Log4net\Log4Net.ConsoleApp\obj\Debug\netcoreapp3.0\Log4Net.ConsoleApp.AssemblyInfo.cs
+D:\Projeler\Log4net\Log4Net.ConsoleApp\obj\Debug\netcoreapp3.0\Log4Net.ConsoleApp.csproj.CopyComplete
+D:\Projeler\Log4net\Log4Net.ConsoleApp\obj\Debug\netcoreapp3.0\Log4Net.ConsoleApp.dll
+D:\Projeler\Log4net\Log4Net.ConsoleApp\obj\Debug\netcoreapp3.0\Log4Net.ConsoleApp.pdb

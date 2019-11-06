@@ -1,0 +1,8 @@
+D:\Projeler\Log4net\Log4Net.Lib\bin\Debug\netcoreapp3.0\Log4Net.Lib.deps.json
+D:\Projeler\Log4net\Log4Net.Lib\bin\Debug\netcoreapp3.0\Log4Net.Lib.dll
+D:\Projeler\Log4net\Log4Net.Lib\bin\Debug\netcoreapp3.0\Log4Net.Lib.pdb
+D:\Projeler\Log4net\Log4Net.Lib\obj\Debug\netcoreapp3.0\Log4Net.Lib.csprojAssemblyReference.cache
+D:\Projeler\Log4net\Log4Net.Lib\obj\Debug\netcoreapp3.0\Log4Net.Lib.AssemblyInfoInputs.cache
+D:\Projeler\Log4net\Log4Net.Lib\obj\Debug\netcoreapp3.0\Log4Net.Lib.AssemblyInfo.cs
+D:\Projeler\Log4net\Log4Net.Lib\obj\Debug\netcoreapp3.0\Log4Net.Lib.dll
+D:\Projeler\Log4net\Log4Net.Lib\obj\Debug\netcoreapp3.0\Log4Net.Lib.pdb
